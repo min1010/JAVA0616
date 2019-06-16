@@ -1,9 +1,8 @@
 /* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
 
-#mainAnchorPane {
-	-fx-background-color:rgb(192,192,192);	
+#memberAnchorPane {
+	-fx-background-image: url("/view/ghibli.png"); /*내가 추가 할 이미* 900*600*/
 }
-
 #btnSearchByID {
 	-fx-background-color:rgb(255,128,64);	
 }
